@@ -1,0 +1,187 @@
+.header_fullpart{
+    
+    background-size: cover;
+    background-position: center;
+    background-origin: border-box;
+    background-repeat: no-repeat;
+    overflow:hidden;
+    background-image: url("https://www.websitesdesigncompany.in/wp-content/uploads/2022/10/nasa-Q1p7bh3SHj8-unsplash.jpg");
+    width: 100% !important;
+    height: 100vh!important;
+
+   
+
+}
+.website_header{
+    margin-top: 30px;
+    display: flex;
+    
+}
+.part-1{
+    color: aliceblue;
+}
+.header_right-part{
+    display: flex;
+    font-size: 20px;
+   
+    margin-left: 60%;
+}
+.header{
+    display: flex;   
+}
+
+.part-1{
+    margin-top: 30px;
+    margin-right: 50px;
+    cursor: pointer;
+}
+.main-content{
+    color: white;
+    margin-left: 20%;
+    margin-top: 6%;
+    font-size: 30px;
+    font-weight: bolder;
+    
+}
+.main-sub_content{
+    color: white;
+    font-size: 30px;
+    margin-left: 20%;
+
+}
+.proposal{
+   
+    color: white;
+    margin-left:25% ;
+    border-style:none;
+    background-color: #ff5f00;
+    width: 180px;
+   
+    padding: 10px  5px;
+    margin-top: 40px;
+    padding-left: 10px;
+    font-size: 20px;
+    box-sizing: border-box;
+   
+}
+
+.buttons{
+    display: flex;
+    cursor: pointer;
+    
+
+}
+.call-us{
+    color: white;
+    margin-left: 20px;
+    margin-top: 44px;
+    font-size: 20px;
+    border-style: ridge;
+    padding: 5px 30px;  
+    cursor: pointer;
+}
+.service{
+    color: black;
+    font-size: 20px;
+    font-weight: bold;
+    margin-top: 50px;
+    margin-bottom: 60px;
+    font-size: 30px;
+}
+.service-content{
+    margin-left: 50px;
+}
+.titles{
+    margin-bottom: 10px;
+    font-weight: bold;
+    
+}
+.main-2{
+    overflow: hidden;  
+    
+     
+}
+.title-content{
+    line-height: 1.5;
+}
+.hole-content-1{
+    display: flex;
+
+}
+.main-3{
+    margin-top: 80px;
+    
+    background-image:url(main3img.jfif);
+    
+    width: 100%;
+    height:60vh;
+    
+    background-size: cover;
+    background-position: center;
+    background-origin: border-box;
+    background-repeat: no-repeat;
+}
+.five-plus{
+    
+   
+    margin-left: 200px;
+    font-size: 80px;
+    color: white;
+    margin-top: 100px;
+
+    
+    
+}
+
+.five-plus1{
+    
+    margin-left: 150px;
+    font-size: 80px;
+    color: white;
+    margin-top: 100px !important;
+    
+}
+.experience{
+    font-size:30px;
+    color: white;
+    margin-left: 60px;
+    margin-top: 20px;
+    
+}
+.hole_main-1{
+    display: flex;
+}
+.experience1{
+    font-size:30px;
+    color: white;
+    margin-left: 240px;
+    margin-top: 20px;
+
+}
+.our_client-holecontent{
+    align-content: center;
+    margin-top: 100px;
+    margin-left: 100px;
+
+}
+.our-client{
+    font-size: 30px;
+    font-weight: bold;
+    margin-bottom: 30px;
+    margin-left: 30%;
+    margin-bottom: 50px;
+
+}
+.our-client-content{
+    margin-left: 20%;
+    line-height: 1.5;
+    font-size: 25px;
+}
+.our-client-content span{
+    margin-left: 5%;
+
+}
+
+
+
+
